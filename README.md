@@ -1,6 +1,6 @@
 # GeneralStoreMVC
 
-##Table of Content
+## Table of Content
 * Introduction
 * Technologies
 * Packages Installed 
